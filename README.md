@@ -26,3 +26,6 @@ The (package.json) file for your Node.jsproject, which is a chat application usi
 
 
 **OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/ad409bcd-d320-4650-9a87-9d8499488f76)
+![Image](https://github.com/user-attachments/assets/221d1126-5ebc-4b87-a807-d802c69ac2f6)
